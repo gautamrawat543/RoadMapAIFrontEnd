@@ -29,7 +29,7 @@
 
 ---
 
-## 🗂️ Project Structure Overview
+## 🗂️ Project Structure Overview Example
 
 ```plaintext
 lib/
@@ -75,7 +75,7 @@ flutter run
 
 ## 🧪 API Integration
 
-This app is designed to work with the [Roadmap.AI Spring Boot Backend](https://github.com/gautamrawat543/Roadmap.AI).  
+This app is designed to work with the [Roadmap.AI Spring Boot Backend](https://github.com/gautamrawat543/RoadMapAI).  
 Make sure the backend is deployed and reachable, then:
 
 - Update the API base URL in `api_service.dart`
@@ -87,12 +87,6 @@ Make sure the backend is deployed and reachable, then:
 ## 📱 Screenshots
 
 _(Add your own screenshots here using Markdown image syntax)_
-
----
-
-## 📃 License
-
-This project is licensed under the MIT License.
 
 ---
 
