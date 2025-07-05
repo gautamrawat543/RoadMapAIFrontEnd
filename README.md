@@ -65,8 +65,8 @@ lib/
 ### 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/roadmapfrontend.git
-cd roadmapfrontend
+git clone https://github.com/gautamrawat543/RoadMapAIFrontEnd.git
+cd roadmapaifrontend
 flutter pub get
 flutter run
 ```
