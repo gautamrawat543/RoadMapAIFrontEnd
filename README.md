@@ -86,7 +86,25 @@ Make sure the backend is deployed and reachable, then:
 
 ## 📱 Screenshots
 
-_(Add your own screenshots here using Markdown image syntax)_
+### 🏠 Home Page
+
+![Home Screenshot](assets/screenshots/home.jpg)
+
+### 🗺️ Roadmap Viewer
+
+![RoadMap Screenshot](assets/screenshots/roadmap.jpg)
+
+### 👤 User Profile
+
+![Profile Screenshot](assets/screenshots/profile.jpg)
+
+### 📊 Overview Dashboard
+
+![Overview Screenshot](assets/screenshots/overview.jpg)
+
+### 💬 AI Prompt Interaction
+
+![Prompt Screenshot](assets/screenshots/prompt.jpg)
 
 ---
 
