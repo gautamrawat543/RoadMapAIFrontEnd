@@ -88,23 +88,23 @@ Make sure the backend is deployed and reachable, then:
 
 ### 🏠 Home Page
 
-![Home Screenshot](assets/screenshots/home.jpg)
+<img src="assets/screenshots/home.jpg" alt="Home Screenshot" width="400"/>
 
 ### 🗺️ Roadmap Viewer
 
-![RoadMap Screenshot](assets/screenshots/roadmap.jpg)
+<img src="assets/screenshots/roadmap.jpg" alt="RoadMap Screenshot" width="400"/>
 
 ### 👤 User Profile
 
-![Profile Screenshot](assets/screenshots/profile.jpg)
+<img src="assets/screenshots/profile.jpg" alt="Profile Screenshot" width="400"/>
 
 ### 📊 Overview Dashboard
 
-![Overview Screenshot](assets/screenshots/overview.jpg)
+<img src="assets/screenshots/overview.jpg" alt="Overview Screenshot" width="400"/>
 
 ### 💬 AI Prompt Interaction
 
-![Prompt Screenshot](assets/screenshots/prompt.jpg)
+<img src="assets/screenshots/prompt.jpg" alt="Prompt Screenshot" width="400"/>
 
 ---
 
